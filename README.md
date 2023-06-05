@@ -14,6 +14,8 @@ Learn some Solidity, write and deploy a smart contract to the blockchain, and bu
 
 [🔗 Link to the project](https://buildspace.so/p/build-solidity-web3-app)
 
+---
+
 ### Mint your own NFT collection and ship a Web3 app to show them off
 
 ![Mint your own NFT collection and ship a Web3 app to show them off](/projects/mint-your-own-nft.webp)
@@ -23,6 +25,8 @@ Programmatically generate your own NFT collection, write and deploy a smart cont
 ⚡️ Tech Stack: NFT, Web 3.0
 
 [🔗 Link to the project](https://buildspace.so/p/mint-nft-collection)
+
+---
 
 ### Build your own DAO with just Javascript
 
@@ -34,6 +38,8 @@ Build a DAO for any purpose you like, learning about minting a membership NFT, c
 
 [🔗 Link to the project](https://buildspace.so/p/build-dao-with-javascript)
 
+---
+
 ### Build a Web3 app on Solana with React and Rust
 
 ![Build a Web3 app on Solana with React and Rust](/projects/solana-web3-app.webp)
@@ -43,6 +49,8 @@ Pick up some Rust, write and deploy a Solana program, and connect it all back to
 ⚡️ Tech Stack: Solana, React, Rust
 
 [🔗 Link to the project](https://buildspace.so/p/build-solana-web3-app)
+
+---
 
 ### Ship your own custom NFT collection on Solana w/ Metaplex in a weekend
 
