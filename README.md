@@ -208,10 +208,6 @@ In this tutorial, you will learn how to develop an NFT gallery that displays NFT
 
 ---
 
-Sure, here's the data formatted as you requested:
-
----
-
 ### Build a solana wallet
 
 ![Build a solana wallet](/projects/build-solana-wallet.png)
@@ -269,10 +265,6 @@ This tutorial teaches you how to build your own NFT marketplace from scratch: fr
 ⚡️ Tech Stack: Smart Contracts, NFT
 
 [🔗 Link to the project](https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch)
-
----
-
-Sure, here are the converted entries:
 
 ---
 
@@ -336,10 +328,6 @@ In this tutorial we build a Netflix Clone, with movie assets stored in a decentr
 
 ---
 
-Here are the converted entries:
-
----
-
 ### Build Spotify Web3.0 Blockchain App with React and Moralis _ Web3 Programming Tutorial
 
 ![Build Spotify Web3.0 Blockchain App with React and Moralis _ Web3 Programming Tutorial](/projects/build-spotify-with-moralis.jpg)
@@ -397,10 +385,6 @@ In this tutorial, you're gonna be building the Amazon Blockchain Web 3.0 App usi
 ⚡️ Tech Stack: Solidity, Moralis, Next.js, Ether.js, Tailwind CSS
 
 [🔗 Link to the project](https://youtu.be/HMdwbq1JJT0)
-
----
-
-Here are the converted entries:
 
 ---
 
@@ -464,10 +448,6 @@ In this tutorial, you're gonna be building the Coinbase Blockchain Web 3.0 App u
 
 ---
 
-Here are the converted entries:
-
----
-
 ### Build a Blog App with Solana & React (Solana CRUD 101)
 
 ![Build a Blog App with Solana & React (Solana CRUD 101)](/projects/solana_blog_dapp.jpg)
@@ -525,10 +505,6 @@ In this tutorial, you're gonna be building the Spotify Blockchain Web3 dApp usin
 ⚡️ Tech Stack: Blockchain, Next.js, Phantom
 
 [🔗 Link to the project](https://www.youtube.com/watch?v=JbZPQJpfahI)
-
----
-
-Here are the converted entries:
 
 ---
 
