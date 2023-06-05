@@ -148,10 +148,6 @@ This is a beginner level project for anyone looking to start in web3 space.
 
 ---
 
-Sure, here's the new data formatted as you requested:
-
----
-
 ### How to write a smart contract and mint Elon Musk NFT on OpenSea
 
 ![How to write a smart contract and mint Elon Musk NFT on OpenSea](/projects/elon-musk-nft.webp)
