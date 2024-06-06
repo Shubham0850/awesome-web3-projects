@@ -68,7 +68,7 @@ Generate your own custom NFTs and then build a storefront for someone to connect
 
 ![Build your own domain service on a Polygon L2 in a weekend](/projects/domain-service-on-polygon.webp)
 
-Write a smart contract in Solidity, defix: type  to a layer 2 blockchain on Polygon, and build a React app to let your friends connect their wallets and create their domains.
+Write a smart contract in Solidity, deploy to a layer 2 blockchain on Polygon, and build a React app to let your friends connect their wallets and create their domains.
 
 ⚡️ Tech Stack: Polygon
 
