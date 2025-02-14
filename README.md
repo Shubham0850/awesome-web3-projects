@@ -28,13 +28,13 @@ Programmatically generate your own NFT collection, write and deploy a smart cont
 
 ---
 
-### Build your own DAO with just Javascript
+### Build your own DAO with just JavaScript
 
-![Build your own DAO with just Javascript](/projects/build-dao-with-javascript.webp)
+![Build your own DAO with just JavaScript](/projects/build-dao-with-javascript.webp)
 
 Build a DAO for any purpose you like, learning about minting a membership NFT, creating/airdropping a token, public treasuries, and governance using a token.
 
-⚡️ Tech Stack: DAO, Javascript
+⚡️ Tech Stack: DAO, JavaScript
 
 [🔗 Link to the project](https://buildspace.so/p/build-dao-with-javascript)
 
@@ -364,13 +364,13 @@ Utilising the Web3 UIKit, React and Google Maps you will build a frontend clone 
 
 ---
 
-### Build Your Own Web3.0 Metaverse using Solidity, Javascript and Moralis - Blockchain Development
+### Build Your Own Web3.0 Metaverse using Solidity, JavaScript and Moralis - Blockchain Development
 
-![Build Your Own Web3.0 Metaverse using Solidity, Javascript and Moralis - Blockchain Development](/projects/create-own-metaverse.jpg)
+![Build Your Own Web3.0 Metaverse using Solidity, JavaScript and Moralis - Blockchain Development](/projects/create-own-metaverse.jpg)
 
 In this video we build our own Metaverse, similar to Sandbox or Decentraland. The base of any Metaverse is the world in which it is built. In this tutorial, we learn the process to create a Metaverse map, how to animate it, and how to link plots of land in that Metaverse to NFTs that can be registered and transferred in the blockchain.
 
-⚡️ Tech Stack: Solidity, Javascript, Web3.0
+⚡️ Tech Stack: Solidity, JavaScript, Web3.0
 
 [🔗 Link to the project](https://youtu.be/tJez2sd1sok)
 
