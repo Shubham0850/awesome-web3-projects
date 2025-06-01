@@ -4,6 +4,46 @@ Welcome to the Awesome Web3 Projects repository! This is a handpicked collection
 
 ---
 
+## 🟢 Beginner Projects
+
+---
+
+### Writing your first Hello World contracts in Solidity
+
+![Writing your first Hello World contracts in Solidity](/projects/contract-on-solidity.webp)
+
+This is a beginner level project for anyone looking to start in web3 space.
+
+⚡️ Tech Stack: Web3, Solidity
+
+[🔗 Link to the project](https://metaschool.so/course/writing-your-first-hello-world-contract-in-solidity)
+
+---
+
+### Add MetaMask connect button to your react app
+
+![Add MetaMask connect button to your react app](/projects/metamask-connect-button.webp)
+
+A mini project to help you add connect MetaMask wallet functionality in your app.
+
+⚡️ Tech Stack: Metamask, React
+
+[🔗 Link to the project](https://metaschool.so/course/add-metamask-connect-button-to-your-react-app)
+
+---
+
+### Your First Dapp (start from scratch and learn how to launch your first dapp!)
+
+![Your First Dapp](/projects/build-first-dapp.jpg)
+
+Developing your first dapp might seem like a cumbersome process. However, with the right tools and guidance, you'll be able to launch your first dapp quickly!
+
+⚡️ Tech Stack: dApps
+
+[🔗 Link to the project](https://docs.moralis.io/docs/your-first-dapp)
+
+---
+
 ### Build a Web3 App with Solidity + Ethereum Smart Contracts
 
 ![🛠️ Build a Web3 App with Solidity + Ethereum Smart Contracts](/projects/smart-contracts-etherium.webp)
@@ -13,18 +53,6 @@ Learn some Solidity, write and deploy a smart contract to the blockchain, and bu
 ⚡️ Tech Stack: Smart Contracts, Solidity, Ethereum
 
 [🔗 Link to the project](https://buildspace.so/p/build-solidity-web3-app)
-
----
-
-### Mint your own NFT collection and ship a Web3 app to show them off
-
-![Mint your own NFT collection and ship a Web3 app to show them off](/projects/mint-your-own-nft.webp)
-
-Programmatically generate your own NFT collection, write and deploy a smart contract in Solidity, and build your own React dApp to let friends connect their wallets and interact with your NFTs.
-
-⚡️ Tech Stack: NFT, Web 3.0
-
-[🔗 Link to the project](https://buildspace.so/p/mint-nft-collection)
 
 ---
 
@@ -40,51 +68,31 @@ Build a DAO for any purpose you like, learning about minting a membership NFT, c
 
 ---
 
-### Build a Web3 app on Solana with React and Rust
+### Launch your own token on Polygon Network in 30 mins
 
-![Build a Web3 app on Solana with React and Rust](/projects/solana-web3-app.webp)
+![Launch your own token on Polygon Network in 30 mins](/projects/launch-token-on-polygon.webp)
 
-Pick up some Rust, write and deploy a Solana program, and connect it all back to a React web3 app that anyone with a Solana wallet will be able to interact with.
+Why buy tokens when you can make your own? This dope project shows you how to create your own token in 30 mins in an easy step-by-step process.
 
-⚡️ Tech Stack: Solana, React, Rust
+⚡️ Tech Stack: Token, Polygon
 
-[🔗 Link to the project](https://buildspace.so/p/build-solana-web3-app)
-
----
-
-### Ship your own custom NFT collection on Solana w/ Metaplex in a weekend
-
-![Ship your own custom NFT collection on Solana w/ Metaplex in a weekend](/projects/custom-nft-on-solana.webp)
-
-Generate your own custom NFTs and then build a storefront for someone to connect their wallet and mint your epic NFTs. All you need to know is React.
-
-⚡️ Tech Stack: Solana, NFT
-
-[🔗 Link to the project](https://buildspace.so/p/ship-solana-nft-collection)
+[🔗 Link to the project](https://metaschool.so/course/launch-your-own-token-on-polygon-network-in-30-mins)
 
 ---
 
-### Build your own domain service on a Polygon L2 in a weekend
+### How to Create an NFT Gallery
 
-![Build your own domain service on a Polygon L2 in a weekend](/projects/domain-service-on-polygon.webp)
+![How to Create an NFT Gallery](/projects/create-nft-gallery.png)
 
-Write a smart contract in Solidity, deploy to a layer 2 blockchain on Polygon, and build a React app to let your friends connect their wallets and create their domains.
+In this tutorial, you will learn how to develop an NFT gallery that displays NFTs by wallet address and smart contract address.
 
-⚡️ Tech Stack: Polygon
+⚡️ Tech Stack: NFT
 
-[🔗 Link to the project](https://buildspace.so/p/build-polygon-ens)
+[🔗 Link to the project](https://docs.alchemy.com/docs/how-to-create-an-nft-gallery)
 
 ---
 
-### Build your own store with Solana Pay
-
-![Build your own store with Solana Pay](/projects/projects/solana-pay.webp)
-
-Cryptocurrencies. You've seen them make your money disappear. How about using them to make money appear? This is a chill weekend project where you'll build your own store using Solana Pay. No Rust knowledge required. Learn how to take payments directly on the blockchain via wallets by hacking around on your own store app. No payment processors here.
-
-⚡️ Tech Stack: Solana
-
-[🔗 Link to the project](https://buildspace.so/p/build-solana-pay-store)
+## 🟡 Intermediate Projects
 
 ---
 
@@ -100,30 +108,6 @@ Learn Cadence and build an NFT collection on Flow! This is a short and async wee
 
 ---
 
-### Build your own web3 Twitter dApp with Solidity
-
-![Build your own web3 Twitter dApp with Solidity](/projects/build-web3-twitter.webp)
-
-Web2 social networks are irrelevant, instead learn how to build your own Web3 Twitter Clone dApp from scratch.
-
-⚡️ Tech Stack: Solidity, dApp, Web3
-
-[🔗 Link to the project](https://metaschool.so/course/build-your-own-web3-twitter-dapp-with-solidity)
-
----
-
-### Launch your own token on Polygon Network in 30 mins
-
-![Launch your own token on Polygon Network in 30 mins](/projects/launch-token-on-polygon.webp)
-
-Why buy tokens when you can make your own? This dope project shows you how to create your own token in 30 mins in an easy step-by-step process.
-
-⚡️ Tech Stack: Token, Polygon
-
-[🔗 Link to the project](https://metaschool.so/course/launch-your-own-token-on-polygon-network-in-30-mins)
-
----
-
 ### Creating NFTs using different token standards
 
 ![Creating NFTs using different token standards](/projects/nft-using-different-token.webp)
@@ -136,15 +120,39 @@ A closer look at different token standards for NFTs namely ERC721, ERC721A and E
 
 ---
 
-### Writing your first Hello World contracts in Solidity
+### Mint your own NFT collection and ship a Web3 app to show them off
 
-![Writing your first Hello World contracts in Solidity](/projects/contract-on-solidity.webp)
+![Mint your own NFT collection and ship a Web3 app to show them off](/projects/mint-your-own-nft.webp)
 
-This is a beginner level project for anyone looking to start in web3 space.
+Programmatically generate your own NFT collection, write and deploy a smart contract in Solidity, and build your own React dApp to let friends connect their wallets and interact with your NFTs.
 
-⚡️ Tech Stack: Web3, Solidity
+⚡️ Tech Stack: NFT, Web 3.0
 
-[🔗 Link to the project](https://metaschool.so/course/writing-your-first-hello-world-contract-in-solidity)
+[🔗 Link to the project](https://buildspace.so/p/mint-nft-collection)
+
+----
+
+### Your First Dapp (start from scratch and learn how to launch your first dapp!)
+
+![Your First Dapp](/projects/build-first-dapp.jpg)
+
+Developing your first dapp might seem like a cumbersome process. However, with the right tools and guidance, you'll be able to launch your first dapp quickly!
+
+⚡️ Tech Stack: dApps
+
+[🔗 Link to the project](https://docs.moralis.io/docs/your-first-dapp)
+
+---
+
+### Ship your own custom NFT collection on Solana w/ Metaplex in a weekend
+
+![Ship your own custom NFT collection on Solana w/ Metaplex in a weekend](/projects/custom-nft-on-solana.webp)
+
+Generate your own custom NFTs and then build a storefront for someone to connect their wallet and mint your epic NFTs. All you need to know is React.
+
+⚡️ Tech Stack: Solana, NFT
+
+[🔗 Link to the project](https://buildspace.so/p/ship-solana-nft-collection)
 
 ---
 
@@ -172,39 +180,88 @@ A super project to take you from scratch and help you build your first ever mint
 
 ---
 
-### Launch your own epic NFT marketplace
+### How to Build an NFT Marketplace from Scratch
 
-![Launch your own epic NFT marketplace](/projects/EPIC-NFT-MARKETPLACE.webp)
+![How to Build an NFT Marketplace from Scratch](/projects/build-nft-marketplace.jpg)
 
-This dope project will help you launch your own NFT marketplace, and understand how NFT minting smart contracts are created and run.
+This tutorial teaches you how to build your own NFT marketplace from scratch: frontend, data storage, and smart contracts!
 
 ⚡️ Tech Stack: Smart Contracts, NFT
 
-[🔗 Link to the project](https://metaschool.so/course/launch-your-own-epic-nft-marketplace)
+[🔗 Link to the project](https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch)
 
 ---
 
-### Add MetaMask connect button to your react app
+### Build your own domain service on a Polygon L2 in a weekend
 
-![Add MetaMask connect button to your react app](/projects/metamask-connect-button.webp)
+![Build your own domain service on a Polygon L2 in a weekend](/projects/domain-service-on-polygon.webp)
 
-A mini project to help you add connect MetaMask wallet functionality in your app.
+Write a smart contract in Solidity, deploy to a layer 2 blockchain on Polygon, and build a React app to let your friends connect their wallets and create their domains.
 
-⚡️ Tech Stack: Metamask, React
+⚡️ Tech Stack: Polygon
 
-[🔗 Link to the project](https://metaschool.so/course/add-metamask-connect-button-to-your-react-app)
+[🔗 Link to the project](https://buildspace.so/p/build-polygon-ens)
 
 ---
 
-### How to Create an NFT Gallery
+### Build a Web3 app on Solana with React and Rust
 
-![How to Create an NFT Gallery](/projects/create-nft-gallery.png)
+![Build a Web3 app on Solana with React and Rust](/projects/solana-web3-app.webp)
 
-In this tutorial, you will learn how to develop an NFT gallery that displays NFTs by wallet address and smart contract address.
+Pick up some Rust, write and deploy a Solana program, and connect it all back to a React web3 app that anyone with a Solana wallet will be able to interact with.
 
-⚡️ Tech Stack: NFT
+⚡️ Tech Stack: Solana, React, Rust
 
-[🔗 Link to the project](https://docs.alchemy.com/docs/how-to-create-an-nft-gallery)
+[🔗 Link to the project](https://buildspace.so/p/build-solana-web3-app)
+
+---
+
+### Build Solana Todo App with Next.js & Rust (Anchor)
+
+![Build Solana Todo App with Next.js & Rust (Anchor)](/projects/solana_todo_app.jpg)
+
+We just created the Best Free Solana Todo App Tutorial on the planet 🌎 Made with lots of ❤️.
+
+⚡️ Tech Stack: Solana, Next.js, Rust
+
+[🔗 Link to the project](https://www.youtube.com/watch?v=3_zoGgffxac)
+
+---
+
+### Build your own store with Solana Pay
+
+![Build your own store with Solana Pay](/projects/projects/solana-pay.webp)
+
+Cryptocurrencies. You've seen them make your money disappear. How about using them to make money appear? This is a chill weekend project where you'll build your own store using Solana Pay. No Rust knowledge required. Learn how to take payments directly on the blockchain via wallets by hacking around on your own store app. No payment processors here.
+
+⚡️ Tech Stack: Solana
+
+[🔗 Link to the project](https://buildspace.so/p/build-solana-pay-store)
+
+---
+
+
+### Build Web3.0 Netflix App using Web3 UIKit, React, Moralis and Solidity
+
+![Build Web3.0 Netflix App using Web3 UIKit, React, Moralis and Solidity](/projects/web3-netflix.jpg)
+
+In this tutorial we build a Netflix Clone, with movie assets stored in a decentral fashion on IPFS. In addition, authentication to the dApp is handled through the users crypto wallet address, facilitated by the Moralis Web3 Development Platform. Happy Building.
+
+⚡️ Tech Stack: Web3.0, UIKit, React, Moralis, Solidity
+
+[🔗 Link to the project](https://www.youtube.com/watch?v=cPjnjxmLS5k)
+
+---
+
+### Build Spotify Web3.0 Blockchain App with React and Moralis _ Web3 Programming Tutorial
+
+![Build Spotify Web3.0 Blockchain App with React and Moralis _ Web3 Programming Tutorial](/projects/build-spotify-with-moralis.jpg)
+
+In this tutorial we build a music streaming website, but with a twist. The Albums will be NFT collections and each song within the albums will be individual NFTs. Hope you enjoy :)
+
+⚡️ Tech Stack: Web3.0, Blockchain, React
+
+[🔗 Link to the project](https://www.youtube.com/watch?v=E7R1gX-pEAs)
 
 ---
 
@@ -232,18 +289,6 @@ The goal of this tutorial is to introduce the Web 3 development process in the c
 
 ---
 
-### Connect APIs to your Smart Contracts using Chainlink: ( How to create a Dynamic NFT)
-
-![Connect APIs to your Smart Contracts using Chainlink: ( How to create a Dynamic NFT)](/projects/connect-api-to-smart-contracts.png)
-
-Learn how to build a Dynamic NFT that changes based on market data using Chainlink Oracles that pull data from external sources into a smart contract.
-
-⚡️ Tech Stack: Smart Contracts, API, Chainlink
-
-[🔗 Link to the project](https://docs.alchemy.com/docs/5-connect-apis-to-your-smart-contracts-using-chainlink)
-
----
-
 ### How to Build a Staking Dapp
 
 ![How to Build a Staking Dapp](/projects/build-stalking-application.jpg)
@@ -256,15 +301,15 @@ In this tutorial, you will learn how to develop a simple staking dApp with inter
 
 ---
 
-### How to Build an NFT Marketplace from Scratch
+### Connect APIs to your Smart Contracts using Chainlink: ( How to create a Dynamic NFT)
 
-![How to Build an NFT Marketplace from Scratch](/projects/build-nft-marketplace.jpg)
+![Connect APIs to your Smart Contracts using Chainlink: ( How to create a Dynamic NFT)](/projects/connect-api-to-smart-contracts.png)
 
-This tutorial teaches you how to build your own NFT marketplace from scratch: frontend, data storage, and smart contracts!
+Learn how to build a Dynamic NFT that changes based on market data using Chainlink Oracles that pull data from external sources into a smart contract.
 
-⚡️ Tech Stack: Smart Contracts, NFT
+⚡️ Tech Stack: Smart Contracts, API, Chainlink
 
-[🔗 Link to the project](https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch)
+[🔗 Link to the project](https://docs.alchemy.com/docs/5-connect-apis-to-your-smart-contracts-using-chainlink)
 
 ---
 
@@ -292,15 +337,67 @@ There's been a lot of discussions lately about how much control social media gia
 
 ---
 
-### Your First Dapp (start from scratch and learn how to launch your first dapp!)
+### Build Amazon Web 3.0 Blockchain App ▶️
 
-![Your First Dapp](/projects/build-first-dapp.jpg)
+![Build Amazon Web 3.0 Blockchain App ▶️](/projects/amazon-web3-clone.jpeg)
 
-Developing your first dapp might seem like a cumbersome process. However, with the right tools and guidance, you'll be able to launch your first dapp quickly!
+In this tutorial, you're gonna be building the Amazon Blockchain Web 3.0 App using Moralis, Next JS, Netlify, Sanity.io, and Tailwind CSS 🔥
 
-⚡️ Tech Stack: dApps
+⚡️ Tech Stack: Solidity, Moralis, Next.js, Ether.js, Tailwind CSS
 
-[🔗 Link to the project](https://docs.moralis.io/docs/your-first-dapp)
+[🔗 Link to the project](https://youtu.be/HMdwbq1JJT0)
+
+---
+
+### Build CoinMarketCap Web 3.0 Blockchain App with Moralis, Next.js, Tailwind CSS
+
+![Build CoinMarketCap Web 3.0 Blockchain App with Moralis, Next.js, Tailwind CSS](/projects/build_coinmarketcap_blockchain.jpg)
+
+In this tutorial, you're gonna be building the CoinMarketCap Blockchain Web 3.0 App using Moralis, Solidity, Next JS, Netlify and Tailwind CSS 🔥
+
+⚡️ Tech Stack: Moralis, Next.js, Tailwind CSS
+
+[🔗 Link to the project](https://www.youtube.com/watch?v=fim8DfBPVks)
+
+---
+
+### Build Coinbase Blockchain Web 3.0 App with Next.js, Sanity.io, thirdweb
+
+![Build Coinbase Blockchain Web 3.0 App with Next.js, Sanity.io, thirdweb](/projects/build_coinbase_blockchain.jpeg)
+
+In this tutorial, you're gonna be building the Coinbase Blockchain Web 3.0 App using Next JS, Sanity.io, thirdweb, Styled Components, and Vercel 🔥
+
+⚡️ Tech Stack: Next.js, Sanity.io, Blockchain Web 3.0
+
+[🔗 Link to the project](https://www.youtube.com/watch?v=frCsGK4cKks)
+
+---
+
+### Build a Blog App with Solana & React (Solana CRUD 101)
+
+![Build a Blog App with Solana & React (Solana CRUD 101)](/projects/solana_blog_dapp.jpg)
+
+Build a Blog App with Lance! This is the BEST tutorial to learn the basics of Solana Development Made with a lot of ❤️
+
+⚡️ Tech Stack: Solana, React, dApp
+
+[🔗 Link to the project](https://www.youtube.com/watch?v=PWvbMWyuYNQ)
+
+---
+
+## 🔴 Advanced Projects
+
+---
+
+### Build your own web3 Twitter dApp with Solidity
+
+![Build your own web3 Twitter dApp with Solidity](/projects/build-web3-twitter.webp)
+
+Web2 social networks are irrelevant, instead learn how to build your own Web3 Twitter Clone dApp from scratch.
+
+⚡️ Tech Stack: Solidity, dApp, Web3
+
+[🔗 Link to the project](https://metaschool.so/course/build-your-own-web3-twitter-dapp-with-solidity)
 
 ---
 
@@ -313,30 +410,6 @@ This video is a walkthrough on the Web3 Space Game project created with Unity an
 ⚡️ Tech Stack: Web3, NFT, Blockchain, Moralis, Unity, C#
 
 [🔗 Link to the project](https://www.youtube.com/watch?v=KBmaji1E2LY)
-
----
-
-### Build Web3.0 Netflix App using Web3 UIKit, React, Moralis and Solidity
-
-![Build Web3.0 Netflix App using Web3 UIKit, React, Moralis and Solidity](/projects/web3-netflix.jpg)
-
-In this tutorial we build a Netflix Clone, with movie assets stored in a decentral fashion on IPFS. In addition, authentication to the dApp is handled through the users crypto wallet address, facilitated by the Moralis Web3 Development Platform. Happy Building.
-
-⚡️ Tech Stack: Web3.0, UIKit, React, Moralis, Solidity
-
-[🔗 Link to the project](https://www.youtube.com/watch?v=cPjnjxmLS5k)
-
----
-
-### Build Spotify Web3.0 Blockchain App with React and Moralis _ Web3 Programming Tutorial
-
-![Build Spotify Web3.0 Blockchain App with React and Moralis _ Web3 Programming Tutorial](/projects/build-spotify-with-moralis.jpg)
-
-In this tutorial we build a music streaming website, but with a twist. The Albums will be NFT collections and each song within the albums will be individual NFTs. Hope you enjoy :)
-
-⚡️ Tech Stack: Web3.0, Blockchain, React
-
-[🔗 Link to the project](https://www.youtube.com/watch?v=E7R1gX-pEAs)
 
 ---
 
@@ -376,18 +449,6 @@ In this video we build our own Metaverse, similar to Sandbox or Decentraland. Th
 
 ---
 
-### Build Amazon Web 3.0 Blockchain App ▶️
-
-![Build Amazon Web 3.0 Blockchain App ▶️](/projects/amazon-web3-clone.jpeg)
-
-In this tutorial, you're gonna be building the Amazon Blockchain Web 3.0 App using Moralis, Next JS, Netlify, Sanity.io, and Tailwind CSS 🔥
-
-⚡️ Tech Stack: Solidity, Moralis, Next.js, Ether.js, Tailwind CSS
-
-[🔗 Link to the project](https://youtu.be/HMdwbq1JJT0)
-
----
-
 ### Build Own Web3.0 NFT Game Angry Birds Clone using Solidity, Unity Web3 and Moralis
 
 ![Build Own Web3.0 NFT Game Angry Birds Clone using Solidity, Unity Web3 and Moralis](/projects/angry-bird-moralis.jpg)
@@ -409,6 +470,18 @@ In this Moralis Project, you will dive into building your own Web3 Twitter clone
 ⚡️ Tech Stack: React, Solidity
 
 [🔗 Link to the project](https://youtu.be/HrlpTJD_CF0)
+
+---
+
+### Launch your own epic NFT marketplace
+
+![Launch your own epic NFT marketplace](/projects/EPIC-NFT-MARKETPLACE.webp)
+
+This dope project will help you launch your own NFT marketplace, and understand how NFT minting smart contracts are created and run.
+
+⚡️ Tech Stack: Smart Contracts, NFT
+
+[🔗 Link to the project](https://metaschool.so/course/launch-your-own-epic-nft-marketplace)
 
 ---
 
@@ -436,30 +509,6 @@ How to use React JS to build the Frontend of a Web Application. How to use third
 
 ---
 
-### Build Coinbase Blockchain Web 3.0 App with Next.js, Sanity.io, thirdweb
-
-![Build Coinbase Blockchain Web 3.0 App with Next.js, Sanity.io, thirdweb](/projects/build_coinbase_blockchain.jpeg)
-
-In this tutorial, you're gonna be building the Coinbase Blockchain Web 3.0 App using Next JS, Sanity.io, thirdweb, Styled Components, and Vercel 🔥
-
-⚡️ Tech Stack: Next.js, Sanity.io, Blockchain Web 3.0
-
-[🔗 Link to the project](https://www.youtube.com/watch?v=frCsGK4cKks)
-
----
-
-### Build a Blog App with Solana & React (Solana CRUD 101)
-
-![Build a Blog App with Solana & React (Solana CRUD 101)](/projects/solana_blog_dapp.jpg)
-
-Build a Blog App with Lance! This is the BEST tutorial to learn the basics of Solana Development Made with a lot of ❤️
-
-⚡️ Tech Stack: Solana, React, dApp
-
-[🔗 Link to the project](https://www.youtube.com/watch?v=PWvbMWyuYNQ)
-
----
-
 ### Build Venmo Web3 Clone with Next.js & Solidity
 
 ![Build Venmo Web3 Clone with Next.js & Solidity](/projects/venmo_clone.jpg)
@@ -481,18 +530,6 @@ We just created the Best Free DAO Tutorial on the planet 🌎 Made with lots of 
 ⚡️ Tech Stack: DAO, Next.js, thirdweb
 
 [🔗 Link to the project](https://www.youtube.com/watch?v=mzpFbKnrOrc)
-
----
-
-### Build Solana Todo App with Next.js & Rust (Anchor)
-
-![Build Solana Todo App with Next.js & Rust (Anchor)](/projects/solana_todo_app.jpg)
-
-We just created the Best Free Solana Todo App Tutorial on the planet 🌎 Made with lots of ❤️.
-
-⚡️ Tech Stack: Solana, Next.js, Rust
-
-[🔗 Link to the project](https://www.youtube.com/watch?v=3_zoGgffxac)
 
 ---
 
@@ -529,18 +566,6 @@ In this tutorial, you're gonna be building the TikTok Web 3.0 dApp using Solana,
 ⚡️ Tech Stack: Next.js, Rust, Netlify, Solana
 
 [🔗 Link to the project](https://www.youtube.com/watch?v=qIGs3XWybgU)
-
----
-
-### Build CoinMarketCap Web 3.0 Blockchain App with Moralis, Next.js, Tailwind CSS
-
-![Build CoinMarketCap Web 3.0 Blockchain App with Moralis, Next.js, Tailwind CSS](/projects/build_coinmarketcap_blockchain.jpg)
-
-In this tutorial, you're gonna be building the CoinMarketCap Blockchain Web 3.0 App using Moralis, Solidity, Next JS, Netlify and Tailwind CSS 🔥
-
-⚡️ Tech Stack: Moralis, Next.js, Tailwind CSS
-
-[🔗 Link to the project](https://www.youtube.com/watch?v=fim8DfBPVks)
 
 ---
 
